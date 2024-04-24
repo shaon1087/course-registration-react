@@ -2,8 +2,8 @@
   {
     "id": "1",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
-    "title": "Introduction to C Programming",
-    "description": "Learn the fundamentals of the C programming language, including syntax, data types, and control structures.",
+    "title": " C Programming",
+    "description": "Learn the fundamentals of the C programming language, including syntax, ",
     "price": 35000,
     "credit": 10
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Advanced C++ Programming",
-    "description": "Dive deeper into C++ programming with topics such as object-oriented programming, templates, and memory management.",
+    "description": "Dive deeper into C++ programming with topics such as object-oriented programming, templates.",
     "price": 40000,
     "credit": 12
   },
@@ -19,7 +19,7 @@
     "id": "3",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Python for Beginners",
-    "description": "Get started with Python programming, covering basic syntax, data structures, and file handling.",
+    "description": "Get started with Python programming, covering basic syntax, data structures.",
     "price": 30000,
     "credit": 8
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Object-Oriented Programming in Python",
-    "description": "Master the principles of object-oriented programming in Python, including classes, inheritance, and polymorphism.",
+    "description": "Master the principles of object-oriented programming in Python, including classes, .",
     "price": 45000,
     "credit": 15
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Data Structures and Algorithms",
-    "description": "Explore common data structures and algorithms used in software development, such as linked lists, trees, and sorting algorithms.",
+    "description": "Explore common data structures and algorithms used in software development, such as linked lists.",
     "price": 50000,
     "credit": 18
   },
@@ -43,7 +43,7 @@
     "id": "6",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Web Development with HTML, CSS, and JavaScript",
-    "description": "Build dynamic websites from scratch using HTML for structure, CSS for styling, and JavaScript for interactivity.",
+    "description": "Build dynamic websites from scratch using HTML for structure, CSS for styling, and .",
     "price": 55000,
     "credit": 20
   },
@@ -51,7 +51,7 @@
     "id": "7",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Java Programming Fundamentals",
-    "description": "Learn the basics of Java programming, including variables, loops, and methods, and start building your own Java applications.",
+    "description": "Learn the basics of Java programming, including variables, loops, and methods, and .",
     "price": 35000,
     "credit": 10
   },
@@ -59,7 +59,7 @@
     "id": "8",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Android App Development with Kotlin",
-    "description": "Create Android apps using Kotlin, Google's preferred programming language for Android development, and publish them on the Google Play Store.",
+    "description": "Create Android apps using Kotlin, Google's preferred programming language for Android development.",
     "price": 70000,
     "credit": 25
   },
@@ -67,7 +67,7 @@
     "id": "9",
     "cover_img": "https://i.ibb.co/q996vXv/pexels-luis-gomes-166706-546819.jpg",
     "title": "Machine Learning with Python",
-    "description": "Discover the principles of machine learning and how to implement them using Python libraries like NumPy, Pandas, and Scikit-Learn.",
+    "description": "Discover the principles of machine learning and how to implement them using Python .",
     "price": 90000,
     "credit": 30
   }

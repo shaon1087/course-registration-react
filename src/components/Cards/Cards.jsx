@@ -1,9 +1,10 @@
 import { useState } from "react";
 import { useEffect } from "react";
 import Card from "../Card/Card";
+import PropTypes from 'prop-types';
 
 
-const Cards = () => {
+const Cards = ({handleAddToCarts}) => {
 
     const [cards,setCards] = useState([]);
     
@@ -14,16 +15,19 @@ const Cards = () => {
     }, []);
 
     return (
-        <div>
-           {
-            
-             cards.map((card) => <Card
-              key={cards.id} card={card}>
-
-              </Card>)
-           };
-        </div>
+      <div className="grid lg:grid-cols-3 gap-4 lg:gap-2 md:grid-cols-2 gap-x-8 gap-y-12">
+        {cards.map((card, idx) => (
+          <Card handleAddToCarts={handleAddToCarts} key={idx} card={card}></Card>
+        ))}
+        ;
+      </div>
     );
 };
+
+Cards.propTypes = {
+  handleAddToCarts: PropTypes.func.isRequired,
+};
+
+
 
 export default Cards;
